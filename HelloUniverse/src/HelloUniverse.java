@@ -52,6 +52,5 @@ public class HelloUniverse {
         System.out.println("Aux dernières nouvelles, le nombre total de planètes dans le système solaire est de : " + nbrePlaneteToday);
         nbrePlaneteToday = 9;
         System.out.println("Il y a quelques années cependant, elles étaient au nombre de : " + nbrePlaneteToday);
-
     }
 }
